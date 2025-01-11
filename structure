@@ -1,0 +1,32 @@
+ImageNetAI/
+│
+├── data/                  # Directory for datasets
+│   ├── train/             # Training dataset (organized into subfolders per class)
+│   │   ├── class_1/       # Images of class_1
+│   │   ├── class_2/       # Images of class_2
+│   │   └── class_n/       # Images of class_n
+│   ├── test/              # Testing dataset (organized into subfolders per class)
+│   │   ├── class_1/       # Test images of class_1
+│   │   ├── class_2/       # Test images of class_2
+│   │   └── class_n/       # Test images of class_n
+│   └── validation/        # Optional: Validation dataset
+│       ├── class_1/       # Validation images of class_1
+│       ├── class_2/       # Validation images of class_2
+│       └── class_n/       # Validation images of class_n
+│
+├── src/                   # Source code directory
+│   ├── cnn_model.py       # CNN model architecture (including layers)
+│   ├── utils.py           # Data preprocessing and augmentation functions
+│   ├── train.py           # Script for training the model
+│   ├── test.py            # Script for testing/evaluating the model
+│   └── visualize.py       # Script for visualizing model performance (e.g., loss/accuracy plots)
+│
+├── outputs/               # Directory for storing model outputs
+│   ├── checkpoints/       # Model checkpoint files during training
+│   ├── predictions/       # Model's predictions on test data
+│   └── logs/              # Logs for training and evaluation
+│
+├── requirements.txt       # Python dependencies (e.g., tensorflow, numpy, etc.)
+├── README.md              # Project documentation (you're editing this)
+├── LICENSE                # Project license file (e.g., MIT License)
+└── main.py                # Entry point to run the training process
