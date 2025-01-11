@@ -1,7 +1,7 @@
-# ImageNetAI - Image Classification Model
+# ImaginAIry - Image Classification Model
 
 ## Overview
-ImageNetAI is a custom-built Convolutional Neural Network (CNN) model designed for image classification tasks. This project aims to train a deep learning model from scratch on your own dataset for classifying images into different categories. The model uses CNNs, a popular architecture for image-related tasks.
+ImaginAIry is a custom-built Convolutional Neural Network (CNN) model designed for image classification tasks. This project aims to train a deep learning model from scratch on your own dataset for classifying images into different categories. The model uses CNNs, a popular architecture for image-related tasks.
 
 ## Features
 - **Image Classification**: Classify images into predefined categories.
