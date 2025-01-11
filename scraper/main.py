@@ -40,3 +40,7 @@ def scrape_images(search_term, save_dir, image_count=100):
 if __name__ == "__main__":
     for search_term in SEARCH_TERMS:
         scrape_images(search_term, os.path.join(SAVE_DIR, search_term), IMAGE_COUNT)
+
+
+
+# The scraper AKA PixelHunter
