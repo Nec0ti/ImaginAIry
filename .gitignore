@@ -28,14 +28,3 @@ outputs/
 # Others
 .DS_Store
 Thumbs.db
-
-# requirements.txt
-tensorflow
-numpy
-pandas
-opencv-python
-scikit-learn
-matplotlib
-requests
-beautifulsoup4
-pytest
