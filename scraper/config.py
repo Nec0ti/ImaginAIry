@@ -5,4 +5,4 @@ SEARCH_TERMS = ["apple", "car", "dog", "cat"]
 IMAGE_COUNT = 100
 
 # Root directory where images will be saved
-SAVE_DIR = "data/train"
+SAVE_DIR = "data/validation"

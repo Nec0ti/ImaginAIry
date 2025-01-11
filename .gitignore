@@ -1,0 +1,41 @@
+# Directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.idea/
+.vscode/
+outputs/
+
+# Dataset
+/data/preprocessed/
+/data/train/
+/data/test/
+/data/validation/
+
+# Logs
+/logs/
+
+# Checkpoints
+/outputs/checkpoints/
+
+# Environment files
+.env
+*.env
+
+# Others
+.DS_Store
+Thumbs.db
+
+# requirements.txt
+tensorflow
+numpy
+pandas
+opencv-python
+scikit-learn
+matplotlib
+requests
+beautifulsoup4
+pytest
