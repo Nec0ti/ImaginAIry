@@ -1,4 +1,4 @@
-ImageNetAI/
+ImaginAIry/
 │
 ├── data/                  # Directory for datasets
 │   ├── train/             # Training dataset (organized into subfolders per class)
