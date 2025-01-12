@@ -2,7 +2,7 @@ tensorflow==2.13.0
 numpy==1.25.0
 pandas==1.5.3
 Pillow==9.5.0
-matplotlib==3.8.0
+matplotlib==3.10.0
 scikit-learn==1.3.0
 requests==2.31.0
 beautifulsoup4==4.12.2
